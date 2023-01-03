@@ -5,7 +5,7 @@
 data={'name': 'pavan', 'sal': 45000, 'gender': 'Male', 'status': 'good'}
 
 if "age" in data :
-    print("yes, it is present.")
+    print("yes, it is presents.")
 else:
     print("No, it's not present")
     

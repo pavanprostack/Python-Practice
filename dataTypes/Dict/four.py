@@ -11,8 +11,7 @@ print(data)
 
 # or
 
-del data["gender"]  # it deletes single item.
-print(data)
+# del keyword. 
 
-del data
+del data["gender"]  # it deletes single item.
 print(data)
